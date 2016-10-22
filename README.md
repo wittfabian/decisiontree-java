@@ -20,7 +20,3 @@ With the given dataset of the cardata (car.txt) you only have to copy this comma
 	java -jar "LearnDecTree.jar" car.txt tree.xml
 
 After that you will find the xml file with the tree in the same directory.
-
-# DESCRIPTION
-
-We have created a fully commented javadoc to describe our solution. Generally we have used two packages. The package „algorithm“ contains all classes for loading the data, lern the tree and print it out to a file. The package „structure“ contains all classes for storing the several nodes and leafs in a useful structure.
