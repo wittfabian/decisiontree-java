@@ -1,4 +1,4 @@
-# decisiontree-java
+# Programming assignment Decision Tree with the ID3 lgorithm
 A program that learns a decision tree with the ID3 algorithm
 
 # INPUT DATA
