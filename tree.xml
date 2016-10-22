@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tree classes="acc:384.0,unacc:1210.0,vgood:65.0,good:69.0" entropy="0.603">
+<node classes="unacc:576.0" entropy="0.0" attr4="2">unacc</node>
+<node classes="acc:198.0,unacc:312.0,vgood:30.0,good:36.0" entropy="0.74" attr4="4">
+<node classes="acc:108.0,unacc:36.0,vgood:30.0,good:18.0" entropy="0.829" attr6="high">
+<node classes="acc:28.0,unacc:9.0,vgood:5.0,good:6.0" entropy="0.811" attr3="2">
+<node classes="acc:8.0,unacc:3.0,vgood:1.0" entropy="0.75" attr2="high">
+<node classes="acc:3.0" entropy="0.0" attr1="high">acc</node>
+<node classes="acc:2.0,vgood:1.0" entropy="0.918" attr1="low">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="acc:1.0" entropy="0.0" attr5="med">acc</node>
+</node>
+<node classes="unacc:3.0" entropy="0.0" attr1="vhigh">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr1="med">acc</node>
+</node>
+<node classes="acc:6.0,vgood:2.0,good:4.0" entropy="0.921" attr2="low">
+<node classes="acc:3.0" entropy="0.0" attr1="high">acc</node>
+<node classes="vgood:1.0,good:2.0" entropy="0.918" attr1="low">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="good:1.0" entropy="0.0" attr5="med">good</node>
+</node>
+<node classes="acc:3.0" entropy="0.0" attr1="vhigh">acc</node>
+<node classes="vgood:1.0,good:2.0" entropy="0.918" attr1="med">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="good:1.0" entropy="0.0" attr5="med">good</node>
+</node>
+</node>
+<node classes="acc:6.0,unacc:6.0" entropy="1.0" attr2="vhigh">
+<node classes="unacc:3.0" entropy="0.0" attr1="high">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr1="low">acc</node>
+<node classes="unacc:3.0" entropy="0.0" attr1="vhigh">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr1="med">acc</node>
+</node>
+<node classes="acc:8.0,vgood:2.0,good:2.0" entropy="0.79" attr2="med">
+<node classes="acc:3.0" entropy="0.0" attr1="high">acc</node>
+<node classes="vgood:1.0,good:2.0" entropy="0.918" attr1="low">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="good:1.0" entropy="0.0" attr5="med">good</node>
+</node>
+<node classes="acc:3.0" entropy="0.0" attr1="vhigh">acc</node>
+<node classes="acc:2.0,vgood:1.0" entropy="0.918" attr1="med">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="acc:1.0" entropy="0.0" attr5="med">acc</node>
+</node>
+</node>
+</node>
+<node classes="acc:28.0,unacc:9.0,vgood:5.0,good:6.0" entropy="0.811" attr3="3">
+<node classes="acc:8.0,unacc:3.0,vgood:1.0" entropy="0.75" attr2="high">
+<node classes="acc:3.0" entropy="0.0" attr1="high">acc</node>
+<node classes="acc:2.0,vgood:1.0" entropy="0.918" attr1="low">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="acc:1.0" entropy="0.0" attr5="med">acc</node>
+</node>
+<node classes="unacc:3.0" entropy="0.0" attr1="vhigh">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr1="med">acc</node>
+</node>
+<node classes="acc:6.0,vgood:2.0,good:4.0" entropy="0.921" attr2="low">
+<node classes="acc:3.0" entropy="0.0" attr1="high">acc</node>
+<node classes="vgood:1.0,good:2.0" entropy="0.918" attr1="low">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="good:1.0" entropy="0.0" attr5="med">good</node>
+</node>
+<node classes="acc:3.0" entropy="0.0" attr1="vhigh">acc</node>
+<node classes="vgood:1.0,good:2.0" entropy="0.918" attr1="med">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="good:1.0" entropy="0.0" attr5="med">good</node>
+</node>
+</node>
+<node classes="acc:6.0,unacc:6.0" entropy="1.0" attr2="vhigh">
+<node classes="unacc:3.0" entropy="0.0" attr1="high">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr1="low">acc</node>
+<node classes="unacc:3.0" entropy="0.0" attr1="vhigh">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr1="med">acc</node>
+</node>
+<node classes="acc:8.0,vgood:2.0,good:2.0" entropy="0.79" attr2="med">
+<node classes="acc:3.0" entropy="0.0" attr1="high">acc</node>
+<node classes="vgood:1.0,good:2.0" entropy="0.918" attr1="low">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="good:1.0" entropy="0.0" attr5="med">good</node>
+</node>
+<node classes="acc:3.0" entropy="0.0" attr1="vhigh">acc</node>
+<node classes="acc:2.0,vgood:1.0" entropy="0.918" attr1="med">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="acc:1.0" entropy="0.0" attr5="med">acc</node>
+</node>
+</node>
+</node>
+<node classes="acc:26.0,unacc:9.0,vgood:10.0,good:3.0" entropy="0.827" attr3="4">
+<node classes="acc:9.0,unacc:3.0" entropy="0.811" attr1="high">
+<node classes="acc:3.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:3.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:4.0,vgood:6.0,good:2.0" entropy="0.921" attr1="low">
+<node classes="acc:1.0,vgood:2.0" entropy="0.918" attr2="high">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+<node classes="vgood:2.0,good:1.0" entropy="0.918" attr2="low">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+<node classes="acc:3.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="vgood:2.0,good:1.0" entropy="0.918" attr2="med">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+</node>
+<node classes="acc:6.0,unacc:6.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:3.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:3.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:7.0,vgood:4.0,good:1.0" entropy="0.808" attr1="med">
+<node classes="acc:3.0" entropy="0.0" attr2="high">acc</node>
+<node classes="vgood:2.0,good:1.0" entropy="0.918" attr2="low">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+<node classes="acc:3.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="acc:1.0,vgood:2.0" entropy="0.918" attr2="med">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+</node>
+</node>
+<node classes="acc:26.0,unacc:9.0,vgood:10.0,good:3.0" entropy="0.827" attr3="5more">
+<node classes="acc:9.0,unacc:3.0" entropy="0.811" attr1="high">
+<node classes="acc:3.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:3.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:4.0,vgood:6.0,good:2.0" entropy="0.921" attr1="low">
+<node classes="acc:1.0,vgood:2.0" entropy="0.918" attr2="high">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+<node classes="vgood:2.0,good:1.0" entropy="0.918" attr2="low">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+<node classes="acc:3.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="vgood:2.0,good:1.0" entropy="0.918" attr2="med">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+</node>
+<node classes="acc:6.0,unacc:6.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:3.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:3.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:7.0,vgood:4.0,good:1.0" entropy="0.808" attr1="med">
+<node classes="acc:3.0" entropy="0.0" attr2="high">acc</node>
+<node classes="vgood:2.0,good:1.0" entropy="0.918" attr2="low">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+<node classes="acc:3.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="acc:1.0,vgood:2.0" entropy="0.918" attr2="med">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+</node>
+</node>
+</node>
+<node classes="unacc:192.0" entropy="0.0" attr6="low">unacc</node>
+<node classes="acc:90.0,unacc:84.0,good:18.0" entropy="0.854" attr6="med">
+<node classes="acc:20.0,unacc:25.0,good:3.0" entropy="0.799" attr3="2">
+<node classes="acc:3.0,unacc:9.0" entropy="0.811" attr1="high">
+<node classes="unacc:4.0" entropy="0.0" attr5="small">unacc</node>
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr5="big">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="unacc:4.0" entropy="0.0" attr5="med">unacc</node>
+</node>
+<node classes="acc:8.0,unacc:2.0,good:2.0" entropy="0.79" attr1="low">
+<node classes="acc:3.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:2.0,good:1.0" entropy="0.918" attr2="low">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="good:1.0" entropy="0.0" attr5="big">good</node>
+<node classes="acc:1.0" entropy="0.0" attr5="med">acc</node>
+</node>
+<node classes="acc:1.0,unacc:2.0" entropy="0.918" attr2="vhigh">
+<node classes="unacc:1.0" entropy="0.0" attr5="small">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr5="big">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr5="med">unacc</node>
+</node>
+<node classes="acc:2.0,good:1.0" entropy="0.918" attr2="med">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="good:1.0" entropy="0.0" attr5="big">good</node>
+<node classes="acc:1.0" entropy="0.0" attr5="med">acc</node>
+</node>
+</node>
+<node classes="acc:2.0,unacc:10.0" entropy="0.65" attr1="vhigh">
+<node classes="unacc:4.0" entropy="0.0" attr5="small">unacc</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr5="big">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="unacc:4.0" entropy="0.0" attr5="med">unacc</node>
+</node>
+<node classes="acc:7.0,unacc:4.0,good:1.0" entropy="0.808" attr1="med">
+<node classes="acc:1.0,unacc:2.0" entropy="0.918" attr2="high">
+<node classes="unacc:1.0" entropy="0.0" attr5="small">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr5="big">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr5="med">unacc</node>
+</node>
+<node classes="acc:2.0,good:1.0" entropy="0.918" attr2="low">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="good:1.0" entropy="0.0" attr5="big">good</node>
+<node classes="acc:1.0" entropy="0.0" attr5="med">acc</node>
+</node>
+<node classes="acc:1.0,unacc:2.0" entropy="0.918" attr2="vhigh">
+<node classes="unacc:1.0" entropy="0.0" attr5="small">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr5="big">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr5="med">unacc</node>
+</node>
+<node classes="acc:3.0" entropy="0.0" attr2="med">acc</node>
+</node>
+</node>
+<node classes="acc:20.0,unacc:25.0,good:3.0" entropy="0.799" attr3="3">
+<node classes="acc:3.0,unacc:9.0" entropy="0.811" attr1="high">
+<node classes="unacc:4.0" entropy="0.0" attr5="small">unacc</node>
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr5="big">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="unacc:4.0" entropy="0.0" attr5="med">unacc</node>
+</node>
+<node classes="acc:8.0,unacc:2.0,good:2.0" entropy="0.79" attr1="low">
+<node classes="acc:3.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:2.0,good:1.0" entropy="0.918" attr2="low">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="good:1.0" entropy="0.0" attr5="big">good</node>
+<node classes="acc:1.0" entropy="0.0" attr5="med">acc</node>
+</node>
+<node classes="acc:1.0,unacc:2.0" entropy="0.918" attr2="vhigh">
+<node classes="unacc:1.0" entropy="0.0" attr5="small">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr5="big">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr5="med">unacc</node>
+</node>
+<node classes="acc:2.0,good:1.0" entropy="0.918" attr2="med">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="good:1.0" entropy="0.0" attr5="big">good</node>
+<node classes="acc:1.0" entropy="0.0" attr5="med">acc</node>
+</node>
+</node>
+<node classes="acc:2.0,unacc:10.0" entropy="0.65" attr1="vhigh">
+<node classes="unacc:4.0" entropy="0.0" attr5="small">unacc</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr5="big">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="unacc:4.0" entropy="0.0" attr5="med">unacc</node>
+</node>
+<node classes="acc:7.0,unacc:4.0,good:1.0" entropy="0.808" attr1="med">
+<node classes="acc:1.0,unacc:2.0" entropy="0.918" attr2="high">
+<node classes="unacc:1.0" entropy="0.0" attr5="small">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr5="big">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr5="med">unacc</node>
+</node>
+<node classes="acc:2.0,good:1.0" entropy="0.918" attr2="low">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="good:1.0" entropy="0.0" attr5="big">good</node>
+<node classes="acc:1.0" entropy="0.0" attr5="med">acc</node>
+</node>
+<node classes="acc:1.0,unacc:2.0" entropy="0.918" attr2="vhigh">
+<node classes="unacc:1.0" entropy="0.0" attr5="small">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr5="big">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr5="med">unacc</node>
+</node>
+<node classes="acc:3.0" entropy="0.0" attr2="med">acc</node>
+</node>
+</node>
+<node classes="acc:25.0,unacc:17.0,good:6.0" entropy="0.88" attr3="4">
+<node classes="acc:5.0,unacc:11.0" entropy="0.896" attr5="small">
+<node classes="unacc:4.0" entropy="0.0" attr1="high">unacc</node>
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr1="low">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="unacc:4.0" entropy="0.0" attr1="vhigh">unacc</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr1="med">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+</node>
+<node classes="acc:10.0,unacc:3.0,good:3.0" entropy="0.839" attr5="big">
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr1="high">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:2.0,good:2.0" entropy="1.0" attr1="low">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="med">good</node>
+</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:3.0,good:1.0" entropy="0.811" attr1="med">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+</node>
+<node classes="acc:10.0,unacc:3.0,good:3.0" entropy="0.839" attr5="med">
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr1="high">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:2.0,good:2.0" entropy="1.0" attr1="low">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="med">good</node>
+</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:3.0,good:1.0" entropy="0.811" attr1="med">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+</node>
+</node>
+<node classes="acc:25.0,unacc:17.0,good:6.0" entropy="0.88" attr3="5more">
+<node classes="acc:5.0,unacc:11.0" entropy="0.896" attr5="small">
+<node classes="unacc:4.0" entropy="0.0" attr1="high">unacc</node>
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr1="low">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="unacc:4.0" entropy="0.0" attr1="vhigh">unacc</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr1="med">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+</node>
+<node classes="acc:10.0,unacc:3.0,good:3.0" entropy="0.839" attr5="big">
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr1="high">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:2.0,good:2.0" entropy="1.0" attr1="low">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="med">good</node>
+</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:3.0,good:1.0" entropy="0.811" attr1="med">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+</node>
+<node classes="acc:10.0,unacc:3.0,good:3.0" entropy="0.839" attr5="med">
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr1="high">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:2.0,good:2.0" entropy="1.0" attr1="low">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="med">good</node>
+</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:3.0,good:1.0" entropy="0.811" attr1="med">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node classes="acc:186.0,unacc:322.0,vgood:35.0,good:33.0" entropy="0.739" attr4="more">
+<node classes="acc:96.0,unacc:49.0,vgood:35.0,good:12.0" entropy="0.85" attr6="high">
+<node classes="acc:18.0,unacc:22.0,vgood:5.0,good:3.0" entropy="0.818" attr3="2">
+<node classes="unacc:16.0" entropy="0.0" attr5="small">unacc</node>
+<node classes="acc:8.0,unacc:3.0,vgood:5.0" entropy="0.932" attr5="big">
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr1="high">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:1.0,vgood:3.0" entropy="0.811" attr1="low">
+<node classes="vgood:1.0" entropy="0.0" attr2="high">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr2="low">vgood</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="vgood:1.0" entropy="0.0" attr2="med">vgood</node>
+</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:2.0,vgood:2.0" entropy="1.0" attr1="med">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="vgood:1.0" entropy="0.0" attr2="low">vgood</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="vgood:1.0" entropy="0.0" attr2="med">vgood</node>
+</node>
+</node>
+<node classes="acc:10.0,unacc:3.0,good:3.0" entropy="0.839" attr5="med">
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr1="high">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:2.0,good:2.0" entropy="1.0" attr1="low">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="med">good</node>
+</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:3.0,good:1.0" entropy="0.811" attr1="med">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+</node>
+</node>
+<node classes="acc:26.0,unacc:9.0,vgood:10.0,good:3.0" entropy="0.827" attr3="3">
+<node classes="acc:9.0,unacc:3.0" entropy="0.811" attr1="high">
+<node classes="acc:3.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:3.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:4.0,vgood:6.0,good:2.0" entropy="0.921" attr1="low">
+<node classes="acc:1.0,vgood:2.0" entropy="0.918" attr2="high">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+<node classes="vgood:2.0,good:1.0" entropy="0.918" attr2="low">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+<node classes="acc:3.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="vgood:2.0,good:1.0" entropy="0.918" attr2="med">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+</node>
+<node classes="acc:6.0,unacc:6.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:3.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:3.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:7.0,vgood:4.0,good:1.0" entropy="0.808" attr1="med">
+<node classes="acc:3.0" entropy="0.0" attr2="high">acc</node>
+<node classes="vgood:2.0,good:1.0" entropy="0.918" attr2="low">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+<node classes="acc:3.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="acc:1.0,vgood:2.0" entropy="0.918" attr2="med">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+</node>
+</node>
+<node classes="acc:26.0,unacc:9.0,vgood:10.0,good:3.0" entropy="0.827" attr3="4">
+<node classes="acc:9.0,unacc:3.0" entropy="0.811" attr1="high">
+<node classes="acc:3.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:3.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:4.0,vgood:6.0,good:2.0" entropy="0.921" attr1="low">
+<node classes="acc:1.0,vgood:2.0" entropy="0.918" attr2="high">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+<node classes="vgood:2.0,good:1.0" entropy="0.918" attr2="low">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+<node classes="acc:3.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="vgood:2.0,good:1.0" entropy="0.918" attr2="med">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+</node>
+<node classes="acc:6.0,unacc:6.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:3.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:3.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:7.0,vgood:4.0,good:1.0" entropy="0.808" attr1="med">
+<node classes="acc:3.0" entropy="0.0" attr2="high">acc</node>
+<node classes="vgood:2.0,good:1.0" entropy="0.918" attr2="low">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+<node classes="acc:3.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="acc:1.0,vgood:2.0" entropy="0.918" attr2="med">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+</node>
+</node>
+<node classes="acc:26.0,unacc:9.0,vgood:10.0,good:3.0" entropy="0.827" attr3="5more">
+<node classes="acc:9.0,unacc:3.0" entropy="0.811" attr1="high">
+<node classes="acc:3.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:3.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:4.0,vgood:6.0,good:2.0" entropy="0.921" attr1="low">
+<node classes="acc:1.0,vgood:2.0" entropy="0.918" attr2="high">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+<node classes="vgood:2.0,good:1.0" entropy="0.918" attr2="low">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+<node classes="acc:3.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="vgood:2.0,good:1.0" entropy="0.918" attr2="med">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+</node>
+<node classes="acc:6.0,unacc:6.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:3.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:3.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:3.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:7.0,vgood:4.0,good:1.0" entropy="0.808" attr1="med">
+<node classes="acc:3.0" entropy="0.0" attr2="high">acc</node>
+<node classes="vgood:2.0,good:1.0" entropy="0.918" attr2="low">
+<node classes="good:1.0" entropy="0.0" attr5="small">good</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+<node classes="acc:3.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="acc:1.0,vgood:2.0" entropy="0.918" attr2="med">
+<node classes="acc:1.0" entropy="0.0" attr5="small">acc</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="big">vgood</node>
+<node classes="vgood:1.0" entropy="0.0" attr5="med">vgood</node>
+</node>
+</node>
+</node>
+</node>
+<node classes="unacc:192.0" entropy="0.0" attr6="low">unacc</node>
+<node classes="acc:90.0,unacc:81.0,good:21.0" entropy="0.875" attr6="med">
+<node classes="acc:15.0,unacc:49.0" entropy="0.786" attr5="small">
+<node classes="unacc:16.0" entropy="0.0" attr1="high">unacc</node>
+<node classes="acc:9.0,unacc:7.0" entropy="0.989" attr1="low">
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr2="high">
+<node classes="unacc:1.0" entropy="0.0" attr3="2">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr3="3">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr3="4">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr3="5more">acc</node>
+</node>
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr2="low">
+<node classes="unacc:1.0" entropy="0.0" attr3="2">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr3="3">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr3="4">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr3="5more">acc</node>
+</node>
+<node classes="unacc:4.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr2="med">
+<node classes="unacc:1.0" entropy="0.0" attr3="2">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr3="3">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr3="4">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr3="5more">acc</node>
+</node>
+</node>
+<node classes="unacc:16.0" entropy="0.0" attr1="vhigh">unacc</node>
+<node classes="acc:6.0,unacc:10.0" entropy="0.954" attr1="med">
+<node classes="unacc:4.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr2="low">
+<node classes="unacc:1.0" entropy="0.0" attr3="2">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr3="3">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr3="4">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr3="5more">acc</node>
+</node>
+<node classes="unacc:4.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr2="med">
+<node classes="unacc:1.0" entropy="0.0" attr3="2">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr3="3">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr3="4">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr3="5more">acc</node>
+</node>
+</node>
+</node>
+<node classes="acc:40.0,unacc:12.0,good:12.0" entropy="0.839" attr5="big">
+<node classes="acc:10.0,unacc:3.0,good:3.0" entropy="0.839" attr3="2">
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr1="high">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:2.0,good:2.0" entropy="1.0" attr1="low">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="med">good</node>
+</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:3.0,good:1.0" entropy="0.811" attr1="med">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+</node>
+<node classes="acc:10.0,unacc:3.0,good:3.0" entropy="0.839" attr3="3">
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr1="high">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:2.0,good:2.0" entropy="1.0" attr1="low">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="med">good</node>
+</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:3.0,good:1.0" entropy="0.811" attr1="med">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+</node>
+<node classes="acc:10.0,unacc:3.0,good:3.0" entropy="0.839" attr3="4">
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr1="high">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:2.0,good:2.0" entropy="1.0" attr1="low">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="med">good</node>
+</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:3.0,good:1.0" entropy="0.811" attr1="med">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+</node>
+<node classes="acc:10.0,unacc:3.0,good:3.0" entropy="0.839" attr3="5more">
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr1="high">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:2.0,good:2.0" entropy="1.0" attr1="low">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="med">good</node>
+</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:3.0,good:1.0" entropy="0.811" attr1="med">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+</node>
+</node>
+<node classes="acc:35.0,unacc:20.0,good:9.0" entropy="0.882" attr5="med">
+<node classes="acc:5.0,unacc:11.0" entropy="0.896" attr3="2">
+<node classes="unacc:4.0" entropy="0.0" attr1="high">unacc</node>
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr1="low">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="unacc:4.0" entropy="0.0" attr1="vhigh">unacc</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr1="med">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+</node>
+<node classes="acc:10.0,unacc:3.0,good:3.0" entropy="0.839" attr3="3">
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr1="high">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:2.0,good:2.0" entropy="1.0" attr1="low">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="med">good</node>
+</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:3.0,good:1.0" entropy="0.811" attr1="med">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+</node>
+<node classes="acc:10.0,unacc:3.0,good:3.0" entropy="0.839" attr3="4">
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr1="high">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:2.0,good:2.0" entropy="1.0" attr1="low">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="med">good</node>
+</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:3.0,good:1.0" entropy="0.811" attr1="med">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+</node>
+<node classes="acc:10.0,unacc:3.0,good:3.0" entropy="0.839" attr3="5more">
+<node classes="acc:3.0,unacc:1.0" entropy="0.811" attr1="high">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:2.0,good:2.0" entropy="1.0" attr1="low">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="med">good</node>
+</node>
+<node classes="acc:2.0,unacc:2.0" entropy="1.0" attr1="vhigh">
+<node classes="unacc:1.0" entropy="0.0" attr2="high">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="low">acc</node>
+<node classes="unacc:1.0" entropy="0.0" attr2="vhigh">unacc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+<node classes="acc:3.0,good:1.0" entropy="0.811" attr1="med">
+<node classes="acc:1.0" entropy="0.0" attr2="high">acc</node>
+<node classes="good:1.0" entropy="0.0" attr2="low">good</node>
+<node classes="acc:1.0" entropy="0.0" attr2="vhigh">acc</node>
+<node classes="acc:1.0" entropy="0.0" attr2="med">acc</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</tree>
